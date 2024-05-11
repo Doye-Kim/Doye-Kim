@@ -20,7 +20,6 @@
   
   ## 📌 About Me
   
-  [![Velog Badge](http://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@kmdy/)](https://velog.io/@kmdy/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kmdy125@gmail.com)](mailto:kmdy125@gmail.com)
 </div>
 
