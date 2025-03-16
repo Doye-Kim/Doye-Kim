@@ -7,7 +7,7 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDoye-Kim&count_bg=%23FFEB63&title_bg=%23488352&icon=&icon_color=%23DEDEDE&title=hits&edge_flat=false)](https://github.com/Doye-Kim)
   [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=abcdy)](https://solved.ac/abcdy)
   <br>
-  [![Gmail Badge](https://img.shields.io/badge/mail_to_me-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kmdy125@gmail.com)](mailto:kmdy125@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:kmdy125@gmail.com)](mailto:kmdy125@gmail.com)
   
   ## 🛠️ Stacks
   ![React Badge](http://img.shields.io/badge/React-2E2E2E?style=for-the-badge&logo=React&logoColor=61DAFB)
